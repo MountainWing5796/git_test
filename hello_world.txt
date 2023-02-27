@@ -1,0 +1,1 @@
+I have finally learned to edit text file in terminal window using command sudo nano hello_world.txt
